@@ -1,6 +1,6 @@
 # Makoto's LeetCode List
 
-![mkt_lc](C:\Users\Makoto\Desktop\Makoto's LeetCode List.assets\mkt_lc.png)
+![mkt_lc](https://github.com/yuchengZhang009/MKTLCList/blob/main/mkt_lc.png)
 
 ## 前言
 
