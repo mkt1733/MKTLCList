@@ -3,7 +3,7 @@
 ![mkt_lc](https://github.com/yuchengZhang009/MKTLCList/blob/main/mkt_lc.png)
 
 ## 前言
-TODO：补充题目、调整部分表格中题目的顺序、优化表格
+
 ### 算法题、LeetCode和本题单
 
 
